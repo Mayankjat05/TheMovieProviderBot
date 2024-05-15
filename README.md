@@ -107,7 +107,7 @@ restart - ʀᴇꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ...
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/HarshalPurohitEdits/TheMovieProviderBot">
+<a href="https://heroku.com/deploy?template=https://github.com/Mayankjat05/TheMovieProviderBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -119,7 +119,7 @@ restart - ʀᴇꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ...
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/HarshalPurohitEdits/TheMovieProviderBot&branch=main&name=TheMovieProviderBot )
+[![Deploy to Koyeb](https://ww.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/HarshalPurohitEdits/TheMovieProviderBot&branch=main&name=TheMovieProviderBot )
 </details>
 
 <details><summary>Deploy To Render</summary>
